@@ -13,7 +13,7 @@
   "screenshots": [],
   "shortcuts": [],
   "icons": [
-    {"src": "https://github.com/WaltemarCarneiro/playshort/blob/main/logo512x512.png",
+    {"src": "https://raw.githubusercontent.com/WaltemarCarneiro/playshort/main/logo512x512.png",
       "type": "image/png",
       "sizes": "512x512"},
   ],
