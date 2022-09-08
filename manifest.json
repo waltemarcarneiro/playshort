@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "description": "Status para WhatsApp",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PlayShortStatus",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PlayShortStatus",
+  "start_url": "/",
+  "theme_color": "#FE5364",
+  "categories": [],
+  "screenshots": [],
+  "shortcuts": []
+}
