@@ -13,9 +13,9 @@
   "screenshots": [],
   "shortcuts": [],
   "icons": [
-    {"src": "https://raw.githubusercontent.com/WaltemarCarneiro/appcanapum/main/500x500.png",
+    {"src": "https://github.com/WaltemarCarneiro/playshort/blob/main/logo512x512.png",
       "type": "image/png",
-      "sizes": "500x500"},
+      "sizes": "512x512"},
   ],
     
 }
