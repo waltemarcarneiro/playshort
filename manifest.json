@@ -11,5 +11,11 @@
   "theme_color": "#FE5364",
   "categories": [],
   "screenshots": [],
-  "shortcuts": []
+  "shortcuts": [],
+  "icons": [
+    {"src": "https://raw.githubusercontent.com/WaltemarCarneiro/appcanapum/main/500x500.png",
+      "type": "image/png",
+      "sizes": "500x500"},
+  ],
+    
 }
