@@ -3,19 +3,50 @@
   "description": "Status para WhatsApp",
   "dir": "ltr",
   "display": "standalone",
-  "name": "PlayShortStatus",
+  "name": "PlayShort",
   "orientation": "any",
   "scope": "/",
-  "short_name": "PlayShortStatus",
-  "start_url": "/",
-  "theme_color": "#FE5364",
-  "categories": [],
+  "start_url": "https://playshortstatus.blogspot.com",
+  "short_name": "PlayShort",
+   "theme_color": "#FE5364",
+  "categories": ["Business"],
   "screenshots": [],
   "shortcuts": [],
   "icons": [
-    {"src": "https://raw.githubusercontent.com/WaltemarCarneiro/playshort/main/logo512x512.png",
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon48x48.png",
       "type": "image/png",
-      "sizes": "512x512"},
-  ],
-    
-}
+      "sizes": "48x48"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+      "porpuse": "any maskable",
+    },
+    {"src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/icons/icon512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+      "porpuse": "any maskable",
+    },
+    ],
+    }
