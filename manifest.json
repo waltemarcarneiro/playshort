@@ -9,9 +9,7 @@
   "start_url": "https://playshortstatus.blogspot.com",
   "short_name": "PlayShort",
   "theme_color": "#FE5364",
-  "categories": [
-    "Business"
-  ],
+  "categories": ["Business"],
   "screenshots": [],
   "shortcuts": [],
   "icons": [
