@@ -63,11 +63,4 @@
       "purpose": "any maskable"
     }
   ]
-  "screenshots": [
-    {
-      "src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/screenshot/screenshot.png",
-      "sizes": "1280x920",
-      "type": "image/png"
-    }
-  ]
-}
+  }
