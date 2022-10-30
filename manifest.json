@@ -2,6 +2,7 @@
   "background_color": "#fe5364",
   "description": "Status para WhatsApp",
   "dir": "ltr",
+  "lang": "pt-BR",
   "display": "standalone",
   "name": "PlayShort",
   "orientation": "any",
@@ -54,6 +55,13 @@
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
+    }
+  ]
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/waltemarcarneiro/playshort/main/screenshot/screenshot.png",
+      "sizes": "1280x920",
+      "type": "image/png"
     }
   ]
 }
